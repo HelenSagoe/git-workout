@@ -1,0 +1,13 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+table, td, th {
+    border: 1px solid ;
+    border-collapse: collapse;
+    
+
+}
+th{
+ text-align: center;
+}
