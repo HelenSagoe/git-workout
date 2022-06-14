@@ -1,13 +1,19 @@
 *{
     font-family: 'Montserrat', sans-serif;
     color: black;
+    background-color: antiquewhite;
 }
 table, td, th {
-    border: 1px solid ;
+    border: 1px solid blue ;
     border-collapse: collapse;
     
-
 }
 th{
  text-align: center;
+}
+ol{
+    list-style-image: url('914832');
+}
+code{
+    color: black;
 }
